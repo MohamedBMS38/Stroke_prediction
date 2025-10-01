@@ -1,2 +1,2 @@
-# ds-running-injury
-Projet de Data Science visant à analyser un jeu de données sur le running et les blessures. L’objectif est d’explorer les variables clés, visualiser les tendances, identifier les facteurs de risque et construire des modèles de prédiction pour mieux comprendre les causes des blessures.
+# stroke prediction
+Projet de Data Science visant à prédire le risque d’AVC (stroke) à partir de données médicales et démographiques (âge, sexe, hypertension, IMC, etc.). Exploration, nettoyage, visualisation et modélisation pour identifier les facteurs clés et entraîner un modèle prédictif.
